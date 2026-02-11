@@ -3,4 +3,4 @@ Machine Learning Task
 
 ## Sub Tasks
 
-- [ ] #1 issue
+- [X] #1 issue
